@@ -1,0 +1,152 @@
+body {
+	background-image: url('https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png');
+	background-size:cover;
+}
+
+#calc-background {
+	width:200px;
+	height:350px;
+	background-color:black;
+	border-radius:10px;
+	margin:0 auto;
+	margin-top:10%;
+}
+
+#input {
+	outline:none;
+	width:183px;
+	height:50px;
+	color:white;
+	background-color:black;
+	border:none;
+	font-size:20px;
+	padding-left:15px;
+	padding-top:10px;
+	letter-spacing:1.5px;
+	border-radius:10px;
+}
+
+#button-grid {
+	margin-left:6.5px;
+	margin-right:5px;
+	margin-top:20px;
+}
+
+.button-style {
+	width:40px;
+	height:40px;
+	border-radius:50%;
+	border:none;
+	margin-left:3px;
+	margin-top:10px;
+	outline:none;
+	cursor:pointer;
+}
+
+#zero {
+	width:85px;
+	border-radius:30px;
+	margin-right:2px;
+}
+
+.grey-button {
+	background-color:#e82323;
+}
+
+#c {
+	background-color: #cccbca;	
+	font-size:17px;
+	
+}
+
+#plusminus {
+	background-color: #cccbca;
+	font-size:14px;
+	
+}
+#percent {
+	background-color: #cccbca;	
+	font-size:15px;
+	
+}
+#divide {
+	background-color: rgb(246,144,5);
+	color:white;
+	font-size:24px;
+}
+#seven {
+	background-color: #424242;	
+	color:white;
+	font-size:20px;
+}
+#eight {
+	background-color: #424242;	
+	color:white;	
+	font-size:20px;
+}
+#nine {
+	background-color: #424242;	
+	color:white;
+	font-size:20px;	
+}
+#multiply {
+	background-color: rgb(246,144,5);
+	color:white;
+	font-size:20px;
+}
+#four {
+	background-color: #424242;	
+	color:white;	
+	font-size:20px;
+}
+#five {
+	background-color: #424242;
+	color:white;
+	font-size:20px;
+}
+	
+#six {
+	background-color: #424242;
+	color:white;
+	font-size:20px;
+}
+#minus {
+	background-color: rgb(246,144,5);
+	color:white;
+	font-size:20px;
+}
+#one {
+	background-color: #424242;
+	color:white;
+	font-size:20px;
+}
+#two {
+	background-color: #424242;
+	color:white;
+	font-size:20px;
+}
+#three {
+	background-color: #424242;
+	color:white;
+	font-size:20px;
+}
+#plus {
+	background-color: rgb(246,144,5);
+	color:white;
+	font-size:20px;
+}
+#zero {
+	background-color: #424242;
+	color:white;
+	font-size:20px;
+}
+#decimal {
+	background-color: #424242;
+	color:white;
+	font-size:20px;
+}
+#equals {
+	background-color: rgb(246,144,5);
+	color:white;
+	font-size:20px;
+}
